@@ -1,0 +1,46 @@
+- 
+  id: 1
+  name: "Innovative Application of Smart Contract"
+  chair: 
+    - {name: "Carvalho, Arthur", site: "Miami University", link: "mailto:carvalag@miamioh.edu"}
+    - {name: "Grossmann, Georg", site: "University of South Australia", link: "mailto:Georg.grossmann@unisa.edu.au"}
+  doc: ""
+- 
+  id: 2
+  name: "Service science and engineering in blockchain ecosystems"
+  chair:
+    - {name: "Velichety, Srikar", site: "The University of Memphis", link: "mailto:svlchety@memphis.edu"}
+    - {name: "Li, Honglei", site: "NorthumbriaU", link: ""}
+    - {name: "Yan, Jiaqi", site: "Nanjing University", link: "mailto:jiaqiyan@nju.edu.cn"}
+  doc: ""
+- 
+  id: 3
+  name: "Workflow, Process, and Supply Chain Systems"
+  chair: 
+    - {name: "La Rosa, Marcello", site: "University of Melbourne", link: ""}
+    - {name: "Liu, Manlu", site: "Rochester Institute of Technology", link: "mailto:manluliu@saunders.rit.edu"}
+    - {name: "Yu, Benquan", site: "Ant Financial", link: "mailto:benquan.ybq@antfin.com"}
+  doc: ""
+- 
+  id: 4
+  name: "Innovative Blockchain Applications in Industry"
+  chair: 
+    - {name: "Liu, Emily", site: "Stevens Institute of Technology", link: "mailto:rliu20@stevens.edu"}
+    - {name: "Subramanian, Hemang", site: "Florida International University", link: "mailto:hsubrama@fiu.edu"}
+  doc: ""
+- 
+  id: 5
+  name: "Economics of Blockchain and Smart Contract"
+  chair: 
+    - {name: "Ke, Dan", site: "Wuhan University", link: "mailto:dkeuconn@gmail.com"}
+    - {name: "Fan, Shaokun", site: "Oregon State University", link: "mailto:shaokun.fan@oregonstate.edu"}
+    - {name: "Ludwig, Andre", site: "The Kühne Logistics University", link: "mailto:andre.ludwig@the-klu.org"}
+  doc: ""
+- 
+  id: 6
+  name: "Mechanism Design of Blockchain and Smart Contract"
+  chair: 
+    - {name: "Hu, Daning", site: "Southern University of Science and Technology", link: "mailto:hdaning@ifi.uzh.ch"}
+    - {name: "Ilk, Noyan", site: "Florida State University", link: "mailto:nilk@business.fsu.edu"}
+    - {name: "Zhou, Zach Zhizhong", site: "Shanghai Jiaotong University", link: "mailto:zhouzhzh@sjtu.edu.cn"}
+  doc: ""

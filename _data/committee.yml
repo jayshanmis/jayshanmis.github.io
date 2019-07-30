@@ -1,0 +1,130 @@
+- 
+  id: 0
+  name: "Joonsang" 
+  surname: "Baek"
+  affiliations: "Wollongong"
+- 
+  id: 1
+  name: "Michael" 
+  surname: "Chau"
+  affiliations: "The University of Hong Kong"
+- 
+  id: 2
+  name: "Jan" 
+  surname: "Claes"
+  affiliations: "University Gent"
+- 
+  id: 3
+  name: "Claudio" 
+  surname: "Di Ciccio"
+  affiliations: "WU Vienna"
+- 
+  id: 4
+  name: "Marlon" 
+  surname: "Dumas"
+  affiliations: "University of Tartu"
+- 
+  id: 5
+  name: "Rik" 
+  surname: "Eshuis"
+  affiliations: "Eindhoven University of Technology"
+-
+  id: 6
+  name: "Jason"
+  surname: "Li"
+  affiliations: "Western Washington University"
+- 
+  id: 7
+  name: "Shaobo" 
+  surname: "Li"
+  affiliations: "University of Kansas"
+- 
+  id: 8
+  name: "Xin" 
+  surname: "Li"
+  affiliations: "City University of Hong Kong"
+- 
+  id: 9
+  name: "Mikael" 
+  surname: "Lind"
+  affiliations: "Viktoria Swedish ICT and Chalmers University of Technology"
+- 
+  id: 10
+  name: "Pascal" 
+  surname: "Ravesteyn"
+  affiliations: "HU University of Applied Science Utrecht"
+-
+  id: 11
+  name: "Binny"
+  surname: "Samuel"
+  affiliations: "University of Cincinnati"
+- 
+  id: 12
+  name: "Flavia" 
+  surname: "Santoro"
+  affiliations: "Federal University of the State of Rio de Janerio"
+- 
+  id: 13
+  name: "Surendra" 
+  surname: "Sarnikar"
+  affiliations: "California State University East Bay"
+- 
+  id: 14
+  name: "Vijayan" 
+  surname: "Sugumaran"
+  affiliations: "Oakland University"
+- 
+  id: 15
+  name: "Alan" 
+  surname: "Wang"
+  affiliations: "Virginia Tech"
+- 
+  id: 16
+  name: "Gang" 
+  surname: "Wang"
+  affiliations: "Hefei University of Technology"
+- 
+  id: 17
+  name: "Jingguo" 
+  surname: "Wang"
+  affiliations: "University of Texas, Arlington"
+- 
+  id: 18
+  name: "Harris" 
+  surname: "Wu"
+  affiliations: "Old Dominion University"
+- 
+  id: 19
+  name: "Jennifer" 
+  surname: "Xu"
+  affiliations: "Bentley University"
+- 
+  id: 20
+  name: "Xue" 
+  surname: "Yang"
+  affiliations: "Nanjing University"
+- 
+  id: 21
+  name: "Bin" 
+  surname: "Zhang"
+  affiliations: "University of Arizona"
+- 
+  id: 22
+  name: "Dongsong" 
+  surname: "Zhang"
+  affiliations: "UNCC"
+- 
+  id: 23
+  name: "Kang" 
+  surname: "Zhao"
+  affiliations: "University of Iowa"
+- 
+  id: 24
+  name: "Lina" 
+  surname: "Zhou"
+  affiliations: "UNCC"
+-
+  id: 25
+  name: "Tianhai"
+  surname: "Zu"
+  affiliations: "University of Cincinnati"

@@ -1,0 +1,299 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"drop",
+				"dropdown-content"
+			],
+			[
+				"Commi",
+				"committees"
+			],
+			[
+				"text",
+				"text-center"
+			],
+			[
+				"off",
+				"col-lg-offset-1"
+			],
+			[
+				"lily",
+				"lily-effect"
+			],
+			[
+				"lil",
+				"lily-effect"
+			],
+			[
+				"Block",
+				"Blockchain"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/huaming/Documents/GitHub/hmchen1990.github.io/_data/committee.yml",
+		"/Users/huaming/Documents/GitHub/hmchen1990.github.io/_config.yml",
+		"/Users/huaming/Documents/GitHub/hmchen1990.github.io/_includes/navigation.html",
+		"/Users/huaming/Documents/GitHub/hmchen1990.github.io/_includes/committeePC.html",
+		"/Users/huaming/Documents/GitHub/hmchen1990.github.io/organization2.html",
+		"/Users/huaming/Documents/GitHub/hmchen1990.github.io/_data/chairs.yml",
+		"/Users/huaming/Documents/GitHub/hmchen1990.github.io/_includes/committeeOC.html",
+		"/Users/huaming/Documents/GitHub/hmchen1990.github.io/organization.html",
+		"/Users/huaming/Documents/GitHub/hmchen1990.github.io/_includes/tracks.html",
+		"/Users/huaming/Documents/GitHub/hmchen1990.github.io/_data/tracks.yml",
+		"/Users/huaming/Documents/GitHub/hmchen1990.github.io/_includes/registration.html",
+		"/Users/huaming/Documents/GitHub/hmchen1990.github.io/_includes/submission.html",
+		"/Users/huaming/Documents/GitHub/hmchen1990.github.io/keynote.html",
+		"/Users/huaming/Documents/GitHub/hmchen1990.github.io/_site/sitemap.xml",
+		"/Users/huaming/Documents/GitHub/hmchen1990.github.io/_includes/keynote.html",
+		"/Users/huaming/Documents/GitHub/hmchen1990.github.io/_includes/top-section.html",
+		"/Users/huaming/Documents/GitHub/hmchen1990.github.io/_includes/committee.html",
+		"/Users/huaming/Documents/GitHub/hmchen1990.github.io/_includes/head.html",
+		"/Users/huaming/Documents/GitHub/hmchen1990.github.io/_includes/hero.html",
+		"/Users/huaming/Documents/GitHub/hmchen1990.github.io/_data/organizers.yml",
+		"/Users/huaming/Documents/GitHub/hmchen1990.github.io/_includes/about.html",
+		"/Users/huaming/Documents/GitHub/hmchen1990.github.io/_includes/partners.html",
+		"/Users/huaming/Documents/GitHub/hmchen1990.github.io/_includes/cfp_details.html",
+		"/Users/huaming/Documents/GitHub/hmchen1990.github.io/_posts/2018-09-27-call-for-papers.markdown",
+		"/Users/huaming/Documents/GitHub/hmchen1990.github.io/img/organizers/sigbps.svg",
+		"/Users/huaming/Documents/GitHub/hmchen1990.github.io/_data/sponsors.yml",
+		"/Users/huaming/Documents/GitHub/hmchen1990.github.io/_data/partners.yml",
+		"/Users/huaming/Documents/GitHub/hmchen1990.github.io/_layouts/compress.html",
+		"/Users/huaming/Documents/GitHub/hmchen1990.github.io/_site/index.html",
+		"/Users/huaming/Documents/GitHub/hmchen1990.github.io/index.html",
+		"/Users/huaming/Documents/GitHub/hmchen1990.github.io/CNAME",
+		"/Users/huaming/Documents/GitHub/BSP18/_layouts/post.html",
+		"/Users/huaming/Documents/GitHub/BSP18/_layouts/default.html",
+		"/Users/huaming/Documents/GitHub/hmchen1990.github.io/css/main.css",
+		"/Users/huaming/Documents/GitHub/hmchen1990.github.io/_site/CNAME",
+		"/Users/huaming/Documents/GitHub/hmchen1990.github.io/_includes/footer.html",
+		"/Users/huaming/Documents/GitHub/hmchen1990.github.io/_includes/venue.html",
+		"/Users/huaming/Documents/GitHub/hmchen1990.github.io/_includes/location-map.html",
+		"/Users/huaming/Documents/GitHub/hmchen1990.github.io/_site/css/main.css",
+		"/Users/huaming/Documents/GitHub/hmchen1990.github.io/js/scripts.js",
+		"/Users/huaming/Documents/GitHub/hmchen1990.github.io/_includes/finalprogram.html",
+		"/Users/huaming/Documents/GitHub/hmchen1990.github.io/Gemfile.lock",
+		"/Users/huaming/Documents/GitHub/hmchen1990.github.io/_data/sessions.yml",
+		"/Users/huaming/Documents/GitHub/hmchen1990.github.io/registration.html",
+		"/Users/huaming/Documents/GitHub/hmchen1990.github.io/program.html",
+		"/Users/huaming/Documents/GitHub/hmchen1990.github.io/_includes/speakers-modals.html",
+		"/Users/huaming/Documents/GitHub/hmchen1990.github.io/tracks.html",
+		"/Users/huaming/Documents/GitHub/hmchen1990.github.io/_data/speakers.yml",
+		"/Users/huaming/Documents/GitHub/hmchen1990.github.io/_includes/speakers-list.html",
+		"/Users/huaming/Documents/GitHub/hmchen1990.github.io/_includes/blog.html",
+		"/Users/huaming/Documents/GitHub/hmchen1990.github.io/submission.html",
+		"/Users/huaming/Documents/GitHub/hmchen1990.github.io/_data/reviewcoordinator.yml",
+		"/Users/huaming/Documents/GitHub/hmchen1990.github.io/_data/conferencechairs.yml",
+		"/Users/huaming/Documents/GitHub/hmchen1990.github.io/_data/honorarychairs.yml",
+		"/Users/huaming/Documents/GitHub/hmchen1990.github.io/_data/webmaster.yml",
+		"/Users/huaming/Documents/GitHub/hmchen1990.github.io/committee.html",
+		"/Users/huaming/Documents/GitHub/hmchen1990.github.io/_posts/2018-08-21-call-for-papers.markdown",
+		"/Users/huaming/Documents/GitHub/hmchen1990.github.io/cfp.html",
+		"/Users/huaming/Documents/GitHub/hmchen1990.github.io/_posts/2014-07-21-hello-world.markdown",
+		"/Users/huaming/Documents/GitHub/hmchen1990.github.io/_includes/schedule.html",
+		"/Users/huaming/Documents/GitHub/hmchen1990.github.io/_config2.yml",
+		"/Users/huaming/Documents/GitHub/hmchen1990.github.io/_data/team.yml",
+		"/Users/huaming/Documents/GitHub/hmchen1990.github.io/_data/judges.yml",
+		"/Users/huaming/Documents/GitHub/hmchen1990.github.io/_includes/team.html",
+		"/Users/huaming/Documents/GitHub/hmchen1990.github.io/team.html",
+		"/Users/huaming/Documents/GitHub/zeppelin/_config.yml",
+		"/Users/huaming/Documents/GitHub/hmchen1990.github.io/schedule.html",
+		"/Users/huaming/Documents/GitHub/hmchen1990.github.io/speakers.html",
+		"/Users/huaming/Documents/GitHub/hmchen1990.github.io/logistics.html",
+		"/Users/huaming/Documents/GitHub/hmchen1990.github.io/hackathon.html",
+		"/Users/huaming/Documents/GitHub/hmchen1990.github.io/blog.html",
+		"/Users/huaming/Documents/GitHub/hmchen1990.github.io/_includes/latest-news.html",
+		"/Users/huaming/Documents/GitHub/hmchen1990.github.io/_includes/tickets.html",
+		"/Users/huaming/Documents/GitHub/zeppelin/index.html",
+		"/Users/huaming/Dropbox/website_all/SIGBPS/BPS18/submission.html",
+		"/Users/huaming/Documents/GitHub/FunCoding/website_all/SIGBPS/BPS18/index.htm",
+		"/Users/huaming/Documents/GitHub/FunCoding/BPS18/submission.html",
+		"/Users/huaming/Documents/GitHub/FunCoding/BPS18/tracks.html",
+		"/Users/huaming/Documents/GitHub/FunCoding/BPS18/advisory.html",
+		"/Users/huaming/Documents/GitHub/FunCoding/BPS18/reg.htm",
+		"/Users/huaming/Documents/GitHub/FunCoding/BPS18/venue.htm",
+		"/Users/huaming/Documents/GitHub/FunCoding/BPS18/keynote.html",
+		"/Users/huaming/Documents/GitHub/FunCoding/BPS18/finalProgram.htm",
+		"/Users/huaming/Documents/GitHub/FunCoding/BPS18/index.htm",
+		"/Users/huaming/Documents/GitHub/FunCoding/website_all/SIGBPS/BPS18/submission.html",
+		"/Users/huaming/Dropbox/website_all/SIGBPS/BPS18/index.htm",
+		"/Users/huaming/Documents/Test/print.py"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 104.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 102.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "organization.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 366.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

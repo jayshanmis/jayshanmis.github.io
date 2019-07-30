@@ -1,0 +1,45 @@
+<style>
+    .div-inline{display: inline}
+</style>
+<section id="team" class="team">
+        <div class="col-lg-10 col-lg-offset-1">
+            <div class="col-lg-offset-0 row text-center appear-animation-trigger">
+                <div class="text-left"><h5 style="font-family:Times New Roman"><strong>Track and Track Chairs</strong></h5></div>
+                <br />
+                {% for track in site.data.tracks %}
+                <div class="col-lg-10 col-sm-6 col-xs-12">
+                        <div>
+                                {% if site.showTracks %}
+                                <div class="text-left"><h6>* {{ track.name }}</h6></div>
+                                <div class="text-left"><span><h6><div class="col-lg-offset-1">{% for c in track.chair%}
+                                    <div><a href={{c.link}}> - {{c.name}} ({{c.site}})</a></div>
+                                    {% endfor %}
+                                </div></h6></span>
+                                </div>
+                                {% endif %}
+                        </div>
+                </div>
+                {% endfor %}
+            </div>
+        </div> 
+        <br />
+        <br />
+		<h6>            
+            <div class="col-lg-10 text-left col-lg-offset-1"><h5 style="font-family:Times New Roman"><strong>Committee Members</strong></h5>
+                <br />
+                {% for teamMember in site.data.committee %}
+                <div class="col-lg-10 col-sm-6 col-xs-12">
+                        <div>
+                                <div class="text-left"><h6></h6></div>
+                                <div class="text-left"><span><h6><div >
+                                    <div class="col-lg-offset-1"><a> - {{teamMember.surname}}, {{teamMember.name}} ({{teamMember.affiliations}})</a></div>
+                                </div></h6></span>
+                                </div>
+                        </div>
+                </div>
+                {% endfor %}
+            </div>
+        </h6>
+        <div class="content-wrapper">
+    </div>
+</section>

@@ -1,0 +1,21 @@
+<!-- Begin Partners Section -->
+<section id="partners" class="partners">
+    <div class="content-wrapper">
+        <div class="col-lg-offset-0">
+            <h4>{{ site.sponsorsTitle }}</h4>
+            {% for sponsor in site.data.sponsors %}
+            <ul class="list-inline">
+                {% for element in sponsor.elements %}
+                <li {% if element.width != null %}style="width: {{ element.width }};"{% endif %}>
+                    <a href="{{ element.link }}" target="_blank">
+                        <img src="{{ site.baseurl }}/img/partners/{{ element.imageUrl }}" width="800" title="{{ element.description }}" alt="{{ element.name }}">
+                    </a>
+                </li>
+                {% endfor %}
+            </ul>
+            {% endfor %}
+        </div>
+    </div> 
+</section>
+<!-- End Partners Section -->
+

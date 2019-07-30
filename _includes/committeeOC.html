@@ -1,0 +1,156 @@
+<!-- Begin Team List-->
+<section id="team" class="team">
+    <div class="content-wrapper">
+        <div class="col-lg-10 col-lg-offset-1 text-center">
+            <h4 class="text-left animated hiding appear-animation-trigger" data-animation="fadeInUp" data-delay="0">Honorary Chairs</h4>
+            {% for teamMember in site.data.chairs %} {% if teamMember.honorarychair != null %}
+            <div class="effect-wrapper col-md-4 col-sm-6 col-xs-12 cols-centered appear-animation">
+                {% for social in teamMember.social %}
+                <div class="zoe-effect" data-toggle="modal" data-target="#speakerDetail-{{ teamMember.id }}" >
+                    <figure class="waves-effect waves-block waves-light" style="background-image: url({{ site.baseurl | append: '/img/people/' | append: teamMember.thumbnailUrl }})">
+                        <div class="overlay solid-overlay"></div>
+                        <figcaption>
+                            <div class="col-lg-10 col-lg-10 text-left">
+                                <h2 class="name"><span>{{teamMember.name}} {{teamMember.surname}} </span></h2>
+								<a href="{{social["link"]}}"><h2 class="name">{{teamMember.affiliations}}</h2></a>
+<!--                            <a href="{{ social["link"] }}" target="_blank">
+                                <svg class="icon icon-{{ social["name"] }}" viewBox="0 0 250 250">
+                                    <use xlink:href="{{ site.baseurl }}/img/sprites/sprites.svg#icon-{{ social["name"] }}"></use>
+                                </svg>
+                            </a>-->
+                            </div>
+                        </figcaption>
+                    </figure>
+                </div>
+                {% endfor %}
+            </div>
+            {% endif %} {% endfor %}
+        </div>
+        <div class="col-lg-10 col-lg-offset-1 text-center">
+            <h4 class="text-left animated hiding appear-animation-trigger" data-animation="fadeInUp" data-delay="0">Conference Chairs</h4>
+            {% for teamMember in site.data.chairs %} {% if teamMember.conferencechair != null %}
+            <div class="effect-wrapper col-md-4 col-sm-6 col-xs-12 cols-centered appear-animation">
+                {% for social in teamMember.social %}
+                <div class="zoe-effect" data-toggle="modal" data-target="#speakerDetail-{{ teamMember.id }}">
+                    <figure class="waves-effect waves-block waves-light" style="background-image: url({{ site.baseurl | append: '/img/people/' | append: teamMember.thumbnailUrl }})">
+                        <div class="overlay solid-overlay"></div>
+                        <figcaption>
+                            <div class="col-ld-10 col-ld-10 text-left">
+                                <h2 class="name"><span>{{ teamMember.name }} {{ teamMember.surname }}</span></h2>
+								<a href="{{social["link"]}}"><h2 class="name">{{teamMember.affiliations}}</h2></a>
+<!--                            <a href="{{ social["link"] }}" target="_blank">
+                                <svg class="icon icon-{{ social["name"] }}" viewBox="0 0 250 250">
+                                    <use xlink:href="{{ site.baseurl }}/img/sprites/sprites.svg#icon-{{ social["name"] }}"></use>
+                                </svg>
+                            </a>-->d
+                            </div>
+                        </figcaption>
+                    </figure>
+                </div>
+                {% endfor %}
+            </div>
+            {% endif %} {% endfor %}
+        </div>
+        <div class="col-lg-10 col-lg-offset-1 text-center">
+            <h4 class="text-left animated hiding appear-animation-trigger" data-animation="fadeInUp" data-delay="0">Program Chairs</h4>
+            {% for teamMember in site.data.chairs %} {% if teamMember.programchair != null %}
+            <div class="effect-wrapper col-md-4 col-sm-6 col-xs-12 cols-centered appear-animation">
+                {% for social in teamMember.social %}
+                <div class="zoe-effect" data-toggle="modal" data-target="#speakerDetail-{{ teamMember.id }}">
+                    <figure class="waves-effect waves-block waves-light" style="background-image: url({{ site.baseurl | append: '/img/people/' | append: teamMember.thumbnailUrl }})">
+                        <div class="overlay solid-overlay"></div>
+                        <figcaption>
+                            <div class="col-ld-10 col-lg-10 text-left">
+                                <h2 class="name"><span>{{ teamMember.name }} {{ teamMember.surname }}</span></h2>
+								<a href="{{social["link"]}}"><h2 class="name">{{teamMember.affiliations}}</h2></a>
+<!--                            <a href="{{ social["link"] }}" target="_blank">
+                                <svg class="icon icon-{{ social["name"] }}" viewBox="0 0 250 250">
+                                    <use xlink:href="{{ site.baseurl }}/img/sprites/sprites.svg#icon-{{ social["name"] }}"></use>
+                                </svg>
+                            </a>-->
+                            </div>
+                        </figcaption>
+                    </figure>
+                </div>
+                {% endfor %}
+            </div>
+            {% endif %} {% endfor %}
+        </div>
+        <div class="col-lg-10 col-lg-offset-1 text-center">
+            <h4 class="text-left animated hiding appear-animation-trigger" data-animation="fadeInUp" data-delay="0">Review Coordination Chair</h4>
+            {% for teamMember in site.data.chairs %} {% if teamMember.reviewcoordinator != null %}
+            <div class="effect-wrapper col-md-4 col-sm-6 col-xs-12 cols-centered appear-animation">
+                {% for social in teamMember.social %}
+                <div class="zoe-effect" data-toggle="modal" data-target="#speakerDetail-{{ teamMember.id }}">
+                    <figure class="waves-effect waves-block waves-light" style="background-image: url({{ site.baseurl | append: '/img/people/' | append: teamMember.thumbnailUrl }})">
+                        <div class="overlay solid-overlay"></div>
+                        <figcaption>
+                            <div class="col-lg-10 col-lg-10 text-left">
+                                <h2 class="name"><span>{{ teamMember.name }} {{ teamMember.surname }}</span></h2>
+								<a href="{{social["link"]}}"><h2 class="name">{{teamMember.affiliations}}</h2></a>
+<!--                            <a href="{{ social["link"] }}" target="_blank">
+                                <svg class="icon icon-{{ social["name"] }}" viewBox="0 0 250 250">
+                                    <use xlink:href="{{ site.baseurl }}/img/sprites/sprites.svg#icon-{{ social["name"] }}"></use>
+                                </svg>
+                            </a>-->
+                            </div>
+                        </figcaption>
+                    </figure>
+                </div>
+                {% endfor %}
+            </div>
+            {% endif %} {% endfor %}
+        </div>
+        <div class="col-lg-10 col-lg-offset-1 text-center">
+            <h4 class="text-left animated hiding appear-animation-trigger" data-animation="fadeInUp" data-delay="0">Local Arrangement Chair</h4>
+            {% for teamMember in site.data.chairs %} {% if teamMember.localteam != null %}
+            <div class="effect-wrapper col-md-4 col-sm-6 col-xs-12 cols-centered appear-animation">
+                {% for social in teamMember.social %}
+                <div class="zoe-effect" data-toggle="modal" data-target="#speakerDetail-{{ teamMember.id }}">
+                    <figure class="waves-effect waves-block waves-light" style="background-image: url({{ site.baseurl | append: '/img/people/' | append: teamMember.thumbnailUrl }})">
+                        <div class="overlay solid-overlay"></div>
+                        <figcaption>
+                            <div class="col-lg-10 col-lg-10 text-left">
+                                <h2 class="name"><span>{{ teamMember.name }} {{ teamMember.surname }}</span></h2>
+                                <a href="{{social["link"]}}"><h2 class="name">{{teamMember.affiliations}}</h2></a>
+<!--                            <a href="{{ social["link"] }}" target="_blank">
+                                <svg class="icon icon-{{ social["name"] }}" viewBox="0 0 250 250">
+                                    <use xlink:href="{{ site.baseurl }}/img/sprites/sprites.svg#icon-{{ social["name"] }}"></use>
+                                </svg>
+                            </a>-->
+                            </div>
+                        </figcaption>
+                    </figure>
+                </div>
+                {% endfor %}
+            </div>
+            {% endif %} {% endfor %}
+        </div>
+        <div class="col-lg-10 col-lg-offset-1 text-center">
+            <h4 class="text-left animated hiding appear-animation-trigger" data-animation="fadeInUp" data-delay="0">Web Master</h4>
+            {% for teamMember in site.data.chairs %} {% if teamMember.webmaster != null %}
+            <div class="effect-wrapper col-md-4 col-sm-6 col-xs-8 cols-centered appear-animation text-center">
+                {% for social in teamMember.social %}
+ <!--               <div class="zoe-effect" data-toggle="modal" data-target="#speakerDetail-{{ teamMember.id }}">
+                    <figure class="waves-effect waves-block waves-light" style="background-image: url({{ site.baseurl | append: '/img/people/' | append: teamMember.thumbnailUrl }})">
+                        <div class="overlay solid-overlay"></div>
+                        <figcaption>
+                            <div class="col-xs-8 text-left">-->
+                                <h5 class="name"><span>{{ teamMember.name }} {{ teamMember.surname }}</span></h5>
+								<h6 class="name">{{teamMember.affiliations}}</h6>
+<!--                            <a href="{{ social["link"] }}" target="_blank">
+                                <svg class="icon icon-{{ social["name"] }}" viewBox="0 0 250 250">
+                                    <use xlink:href="{{ site.baseurl }}/img/sprites/sprites.svg#icon-{{ social["name"] }}"></use>
+                                </svg>
+                            </a>-->
+<!--                             </div>
+                       </figcaption>
+                    </figure>
+                </div>-->
+                {% endfor %}
+            </div>
+            {% endif %} {% endfor %}
+        </div>
+    </div>
+</section>
+<!-- End Team List -->

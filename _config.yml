@@ -1,2 +1,170 @@
-name: Hank Quinlan, Horrible Cop
+# Plugins
+gems:
+- jekyll-feed
+- jekyll-redirect-from
+- jekyll-seo-tag
+- jekyll-sitemap
+- jekyll-avatar
+- jemoji
+- jekyll-mentions
+safe: false
+
+# Build Settings
 markdown: kramdown
+permalink: pretty
+exclude: ['/automation/', 'README.md', 'LICENSE.txt']
+
+# Site Settings
+title: "Welcome to BPS'18 website!"
+email: "jayshan@miamioh.edu"
+description: "SIGBPS 2018 is a workshop on Blockchain and Smart Contract"
+baseurl: ""
+url: "2018.sigbps.org"
+permalink: "/blog/:title"
+googleAnalyticsTrackingId: "UA-43643469-5"
+googleAnalyticsSiteUrl: "gdg-x.github.io"
+siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
+
+# Organizer Info
+organizerName: "SIGBPS"
+organizerAlternateName: "ICIS-SIGBPS 2018"
+organizerDescription: "ICIS SIGBPS Committee"
+organizerEmail: "jayshan@miamioh.edu"
+organizerLogo: "/img/seo/organizer-logo.png"
+organizerLink: "http://lviv.gdg.org.ua/"
+
+# Head
+metaKeywords: "ICIS, SIGBPS, BPS18, BPS"
+twitterAccount: "@"
+socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
+socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
+socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
+
+# Documents
+c4papersUrl: "/assets/SIGBPS2018.pdf"
+finalProgram: "/assets/SIGBPS2018_FinalProgram.pdf"
+
+# Navigation
+navigationLinks:
+ - {permalink: "/", text: "Home"}
+ - {permalink: "/Best_Paper", text: "Best Paper Award"}
+ - {permalink: "/Gallery", text: "Gallery"}
+ - {permalink: "/call-for-papers", text: "Call For Papers"}
+ - {permalink: "/committees", 
+    oclink: "/organizing_committees", 
+    pclink: "/program_committees", text: "Committee"}
+ - {permalink: "/keynotes", text: "Keynotes"}
+ - {permalink: "/discussion_panel", text: "Discussion Panel"}
+ - {permalink: "/program", text: "Program"}
+ - {permalink: "/submission", text: "Submission"}
+ - {permalink: "/registration", text: "Registration"}
+
+# Hero Block
+heroImage: "BG1.png"
+heroTitle1: "Pre-ICIS SIGBPS 2018 Workshop on"
+heroTitle2: "Blockchain and Smart Contract"
+eventDate: "December 13, 2018"
+eventLoc: "Marriott Marquis, Pacific Suite B, 780 Mission St, San Francisco, CA"
+#typeoutTextValues: '"", "Blockchain", "Smart Contract"'
+#typeoutFallback: "Blockchain"
+heroButtons:
+ - {link: "http://2018.sigbps.org/Best_Paper/", text: "Best Paper Award"}
+ 
+# About Block
+aboutTitle: "About ICIS-SIGBPS"
+aboutBlock:
+ - {title: "Conference", image: "conference.jpg", text: "International Conference on Information Systems (ICIS) 2018 Conference will bring together information systems researchers from around the world to discuss cutting edge research"}
+ - {title: "Workshop", image: "workshop.jpg", text: "SIGBPS workshop aims to extend the boundaries of research in business process management and services science by integrating new elements that have not been sufficiently emphasized in the past." }
+
+# Latest News Block
+latestNewsTitle: "Latest news"
+
+# Rockstar Speakers Block
+rockstarSpeakersImage: "rockstar-speakers.jpg"
+rockstarSpeakersCount: 4
+rockstarSpeakersTitle: "Rockstar speakers"
+rockstarSpeakersButtonText: "See all speakers"
+
+# Location Block
+locationBlockTitle: "Location"
+eventLocationName: "Marriott Marquis"
+eventLocationLink: "https://www.marriott.com/hotels/travel/sfodt-san-francisco-marriott-marquis/"
+eventRoom: "Pacific Suite B"
+eventStreetAddress: "780 Mission St"
+eventAddressLocality: "San Francisco, CA"
+eventAddressLocalityRegion: "California"
+eventPostalCode: "94103"
+eventAddressCountry: "United States"
+eventStartTime: "2018-12-13T9:00"
+eventDoorTime: "08:00"
+eventEndTime: "2018-12-13T20:00"
+eventPlaceCoordinates: "37.785405, -122.403516"
+mapCenterCoordinates: "37.785405, -122.403516"
+mapMobileCenterCoordinates: "37.785405, -122.403516"
+
+# Venue Block
+venueBlockTitle: "Venue"
+venueBigImage: "venue_0.jpg"
+venueSmallImage1: "venue_1.jpg"
+venueSmallImage2: "venue_2.jpg"
+venueSmallImage3: "venue_3.jpg"
+venueTitle: "Marriott Marquis"
+venueFeatures: ["A stylish interior", "Rated for the best value in San Francisco"]
+
+# Partners Block
+organizersTitle: "Organizers"
+partnersTitle: "Partners"
+sponsorsTitle: "Sponsors"
+C4papersButton: "Call for Papers"
+C4trackpapersButton: "Details"
+FinalProgramButton: "Workshop Program"
+
+# Footer
+footerBlocks:
+ -
+  title: "Links"
+  links:
+   - {link: "https://icis2018.aisconferences.org/", text: "ICIS 2018"}
+   - {link: "https://2018.sigbps.org/", text: "SIGBPS 2018"}
+ -
+  title: "Contacts"
+  links:
+   - {link: "mailto:jayshan@miamioh.edu", text: "Zhe (Jay) Shan"}
+
+# Blog
+blogTitle: "Latest news"
+blogCommentsEnabled: true
+discusShortName: "devfestua"
+
+# Submission
+submissionTitle: ""
+
+# Call-for-Papers
+cfpTitle: "Call for Papers"
+
+# Tracks Block
+showTracks: true
+
+# Team Block
+teamBlockTitle: "About us"
+aboutUs: "Google's services have become synonymous with simple things online. Number of technological innovations and IT industries in which Google is creating new products is enormous. It's hard to get to know all of them, but realistic. This is why people have started to gather in small local groups and share their experience. Later, the following groups have been called Google Developer Groups. GDGs can take many forms -- from just a few people getting together to watch some videos, to large gatherings with demos, tech talks, hackathons and conferences."
+
+# Logistics Find Way Block
+findWayTitle: "Find your way here"
+findWayDistance: "Distance"
+findWayDriving: "DRIVING"
+findWayWalking: "WALKING"
+findWayBicycling: "BICYCLING"
+findWayTransit: "TRANSIT"
+findWayFindFlight: "Find Flight"
+logisticsMapCenterCoordinates: "49.056728, 3.117289"
+logisticsMapMobileCenterCoordinates: "48.335365, 23.711648"
+logisticsMapAutoDirections: false
+
+# Logistics Direction Details Block
+directionDetailsImage: "direction-details.jpg"
+directionDetailsTitle: "Get around Lviv"
+directionDetailsCards:
+ - {title: "From the Airport", information: 'Airport is right at the city border. It is easily reachable by car, public transport or taxi. More information is available at <a href="http://lwo.aero/en/transport">airport website</a>.'}
+ - {title: "Public Transit", information: 'Google Transit is available in Lviv. So you can find your way in Google Maps. Moreover, you can download any of the offline public transit apps available for Lviv.'}
+ - {title: "Hotels", information: 'Lviv has lots of great hotels and hostels. More information will be available later.'}

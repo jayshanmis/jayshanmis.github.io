@@ -1,0 +1,120 @@
+- 
+  id: 0
+  name: "Edward" 
+  surname: "Stohr"
+  affiliations: "Stevens Institute of Technology"
+  title: "Honorary Chair"
+  thumbnailUrl: Edward.jpg
+  honorarychair: true
+  ribbon: 
+    - {abbr: "SIGBPS", title: "Honorary Chair"}
+  social: 
+    - {name: "site", link: "https://web.stevens.edu/facultyprofile/?id=686"}
+- 
+  id: 1
+  name: "Akhil"
+  surname: "Kumar"
+  affiliations: "Penn State University"
+  title: "Honorary Chair"
+  thumbnailUrl: Akhil.jpg
+  honorarychair: true
+  ribbon: 
+    - {abbr: "SIGBPS", title: "Honorary Chair"}
+  social: 
+    - {name: "site", link: "https://php.smeal.psu.edu/smeal/dirbio/displayBio.php?t_user_id=axk41"}
+- 
+  id: 2
+  name: "J. Leon"
+  surname: "Zhao"
+  affiliations: "City University of Hong Kong"
+  title: "Conference Chair"
+  thumbnailUrl: jlzhao.jpg
+  conferencechair: true
+  ribbon: 
+    - {abbr: "SIGBPS", title: "Conference Chair"}
+  social: 
+    - {name: "site", link: "https://www.cb.cityu.edu.hk/staff/jlzhao/"}
+- 
+  id: 3
+  name: "Karl"
+  surname: "Lang"
+  affiliations: "The City University of New York"
+  title: "Conference Chair"
+  thumbnailUrl: Karl_Lang.jpg
+  conferencechair: true
+  ribbon: 
+    - {abbr: "SIGBPS", title: "Conference Chair"}
+  social: 
+    - {name: "site", link: "https://zicklin.baruch.cuny.edu/faculty-profile/karl-lang/"}
+- 
+  id: 4
+  name: "Jun"
+  surname: "Shen"
+  affiliations: "University of Wollongong"
+  title: "Program Chair"
+  thumbnailUrl: jshen.jpg
+  programchair: true
+  ribbon: 
+    - {abbr: "SIGBPS", title: "Program Chair"}
+  social: 
+    - {name: "site", link: "https://www.uow.edu.au/~jshen/"}
+- 
+  id: 5
+  name: "Zhe (Jay)"
+  surname: "Shan"
+  affiliations: "Miami University"
+  title: "Program Chair"
+  thumbnailUrl: JayShan.jpg
+  programchair: true
+  ribbon: 
+    - {abbr: "SIGBPS", title: "Program Chair"}
+  social: 
+    - {name: "site", link: "http://www.jayshanmis.net/"}
+- 
+  id: 6
+  name: "Lele"
+  surname: "Kang"
+  affiliations: "Nanjing University"
+  title: "Review Coordinator Chair"
+  thumbnailUrl: Kele.jpg
+  reviewcoordinator: true
+  ribbon: 
+    - {abbr: "SIGBPS", title: "Review Coordinator"}
+  social: 
+    - {name: "site", link: "http://im.nju.edu.cn/eng/facstaffdetail?name=Lele%20KANG"}
+- 
+  id: 7
+  name: "Huaming"
+  surname: "Chen"
+  affiliations: "University of Wollongong"
+  title: "Web Master"
+  thumbnailUrl: Huaming.jpg
+  webmaster: true
+  ribbon: 
+    - {abbr: "SIGBPS", title: "Web Master"}
+  social: 
+    - {name: "site", link: ""}
+- 
+  id: 8
+  name: "Ruiyun"
+  surname: "Xu"
+  affiliations: "City University of Hong Kong"
+  title: "Web Master"
+  thumbnailUrl: Ruiyun.jpg
+  webmaster: true
+  ribbon: 
+    - {abbr: "SIGBPS", title: "Web Master"}
+  social: 
+    - {name: "site", link: ""}
+- 
+  id: 9
+  name: "Surendra"
+  surname: "Sarnikar"
+  affiliations: "Cal State East Bay"
+  title: "Local Arrangement Chair"
+  thumbnailUrl: surendra-sarnikar.jpg
+  localteam: true
+  ribbon: 
+    - {abbr: "SIGBPS", title: "Local Arrangement Chair"}
+  social: 
+    - {name: "site", link: "https://www.csueastbay.edu/directory/profiles/mgmt/sarnikarsurendra.html"}

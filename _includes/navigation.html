@@ -1,0 +1,77 @@
+<header id="top-header" class="top-header">
+<style>
+.dropbtn {
+    background-color: #006600;
+    color: white;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+}
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,1);
+}
+.dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+.dropdown-content a:hover {background-color: #f1f1f1}
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+.dropdown:hover .dropbtn {
+    background-color: #000000;
+}
+</style>
+    <div class="overlay white-overlay"></div>
+    <svg id="menu-trigger" class="menu-trigger icon icon-menu visible-xs" viewBox="0 0 32 32">
+        <use xlink:href="{{ site.baseurl }}/img/sprites/sprites.svg#icon-menu"></use>
+    </svg>
+    <a href="{{ site.baseurl }}/" id="logo-header" class="logo-header">
+        <div class="logo logo-light"><use xlink:href="{{ site.baseurl }}/img/sprites/sigbps.jpg"></use></div>
+    </a>
+    <nav class="st-menu st-effect" id="menu">
+        <div class="logo-navbar logo logo-dark visible-xs"></div>
+        <ul>
+            {% for navigationLink in site.navigationLinks %}
+            <li>
+               <!-- <a class="{% if navigationLink.permalink != null and page.permalink == navigationLink.permalink %}current{% endif %}"  href="{% if navigationLink.permalink != null %} {{ navigationLink.permalink | prepend: site.baseurl }} {% else %} {{ navigationLink.link }} {% endif %}" {% if navigationLink.link != null %}target="_blank"{% endif %}>{{ navigationLink.text}}</a>-->
+               {% if navigationLink.permalink == "/committees" %}
+               <div class="dropdown">
+                   <a style="color: #d8bfd8">Committees</a>
+                   <div class="dropdown-content">
+                        <a href="{{ navigationLink.oclink | prepend: site.baseurl }}">Organizing Committee</a>
+                        
+                        <a href="{{ navigationLink.pclink | prepend: site.baseurl }}">Program Committee</a>
+                   </div>
+               </div>
+               {% else if navigationLink.permalink != null and page.permalink == navigationLink.permalink %}
+               <a href="{{ navigationLink.permalink | prepend: site.baseurl }}" style="color: #d8bfd8">{{ navigationLink.text}}</a>
+               {% endif %}
+           </li>
+           {% endfor %}
+        </ul>
+        <ul id="bottom-navlinks" class="bottom-navlinks visible-xs">
+            {% for bottomNavigationLink in site.bottomNavigationLinks %}
+            <li>
+                <a href="{% if bottomNavigationLink.permalink != null %} {{ bottomNavigationLink.permalink | prepend: site.baseurl }} {% else %} {{ bottomNavigationLink.link }} {% endif %}" {% if bottomNavigationLink.link != null %}target="_blank"{% endif %}>{{ bottomNavigationLink.text }}</a>
+            </li>
+            {% endfor %}
+        </ul>
+        {% for rightNavigationButton in site.rightNavigationButtons %}
+        <a href="{% if rightNavigationButton.permalink != null %} {{ rightNavigationButton.permalink | prepend: site.baseurl }} {% else %} {{ rightNavigationButton.link }} {% endif %}" class="right-nav-button right-nav-button-hidden btn btn-primary waves-effect waves-button waves-light waves-float pull-right hidden-xs hidden-sm" {% if rightNavigationButton.link != null %}target="_blank"{% endif %}>
+            {{ rightNavigationButton.text }}
+        </a>
+        {% endfor %}
+    </nav>
+</header>

@@ -1,0 +1,8 @@
+- 
+  group: ""
+  elements: 
+    - {name: "SUFE", description: "Southwestern University of Finance and Economics", link: "https://www.swufe.edu.cn/english/", imageUrl: "SUFE.jpg", width: "150px"}
+    - {name: "Miami", description: "Miami University", link: "https://www.miamioh.edu", imageUrl: "Miami.png", width: "150px"}
+    - {name: "CUHK", description: "City University of Hong Kong", link: "https://www.cityu.edu.hk/", imageUrl: "cityu.png", width: "150px"}
+    - {name: "UOW", description: "University of Wollongong", link: "https://www.uow.edu.au/index.html", imageUrl: "uow.jpg", width: "800px"}
+    - {name: "Nanjing", description: "Nanjing University", link: "https://www.nju.edu.cn/en/", imageUrl: "Nanjing.png", width: "100px"}

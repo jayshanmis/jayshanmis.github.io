@@ -1,0 +1,59 @@
+<!-- Venue Section -->
+<section id="venue">
+    <div class="content-wrapper">
+        <div class="col-lg-10 col-lg-offset-1">
+            <h3>{{ site.venueBlockTitle }}</h3>
+            <div class="row venue-row">
+                <div class="col-md-8 col-sm-8 venue-col">
+                    <div class="venue-elem-wrapper">
+                        <div class="venue-elem image-section venue-big-elem venue-img animated hiding" data-animation="fadeIn" data-delay="0" style="background-image: url({{ site.baseurl }}/img/venue/{{ site.venueBigImage }})"></div>
+                    </div>
+                </div>
+                <div class="col-md-4 col-sm-4 venue-col venue-small-col">
+                    <div class="venue-elem-wrapper col-md-12 col-sm-12 col-xs-6">
+                        <div class="venue-elem image-section venue-small-elem venue-img animated hiding" data-animation="fadeIn" data-delay="150" style="background-image: url({{ site.baseurl }}/img/venue/{{ site.venueSmallImage1 }})"></div>
+                    </div>
+                    <div class="venue-elem-wrapper col-md-12 col-sm-12 col-xs-6">
+                        <div class="venue-elem venue-small-elem venue-text animated hiding" data-animation="fadeIn" data-delay="0">
+                            <h5>{{ site.venueTitle }}</h5>
+                            {% for feature in site.venueFeatures %}
+                            <p>{{ feature }}</p>
+                            {% endfor %}
+                        </div>
+                    </div>
+                    <div class="venue-elem-wrapper col-md-12 col-sm-12 col-xs-6">
+                        <div class="venue-elem image-section venue-small-elem venue-img animated hiding" data-animation="fadeIn" data-delay="0" style="background-image: url({{ site.baseurl }}/img/venue/{{ site.venueSmallImage2 }})"></div>
+                    </div>
+                    <div class="venue-elem-wrapper col-xs-6 visible-xs">
+                        <div class="venue-elem image-section venue-small-elem venue-img animated hiding" data-animation="fadeIn" data-delay="0" style="background-image: url({{ site.baseurl }}/img/venue/{{ site.venueSmallImage3 }})"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="content-wrapper">
+        <div class="col-md-4 col-md-4 col-sm-6 col-md-offset-1 animated hiding location-description text-left" data-animation="fadeInLeft" data-delay="0">
+             <div class="row">
+                <div class="pull-left">
+                    <h3>{{ site.locationBlockTitle }}</h3>
+                    <ul>
+                        {% if site.eventLocationName %}<li>{{ site.eventLocationName }}, {{site.eventRoom}}</li>{% endif %}
+                        <li>{{ site.eventStreetAddress }}, {{ site.eventAddressLocality }}</li>
+                      <!--  <li>
+                            {% assign startTime = site.eventStartTime | split: "T" %}
+                            <time>{{ startTime[1] }}</time> -
+                            {% assign endTime = site.eventEndTime | split: "T" %}
+                            <time>{{ endTime[1] }}</time>
+                        </li>-->
+                    </ul>
+                </div>
+                <!--<a href="https://www.google.com/maps/dir//780+Mission+Street,+San+Francisco,+CA,+USA/@37.7849613,-122.4062022,17z/data=!4m8!4m7!1m0!1m5!1m1!1s0x80858087b5ac5c97:0xfc92c432d33d20ca!2m2!1d-122.4040135!2d37.7849571" class="pull-right">
+                    <svg class="icon icon-direction" viewBox="0 0 32 32">
+                        <use xlink:href="{{ site.baseurl }}/img/sprites/sprites.svg#icon-direction"></use>
+                    </svg>
+                </a>-->
+            </div>
+        </div>
+    </div>
+    </div>
+</section>
+<!-- End Venue Section -->
