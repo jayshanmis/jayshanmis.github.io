@@ -48,10 +48,47 @@
     - {name: "site", link: "https://zicklin.baruch.cuny.edu/faculty-profile/karl-lang/"}
 - 
   id: 4
+  name: "Hemang"
+  surname: "Subramanian"
+  affiliations: "Florida International University"
+  title: "Program Chair"
+  thumbnailUrl: hemang_subramanian.jpg
+  programchair: true
+  ribbon: 
+    - {abbr: "SIGBPS", title: "Program Chair"}
+  social: 
+    - {name: "site", link: "https://business.fiu.edu/faculty/expert-guides.cfm?FlagDirectory=Display&Emp=subramaniah"}
+- 
+  id: 5
+  name: "Jennifer"
+  surname: "Xu"
+  affiliations: "Bentley University"
+  title: "Program Chair"
+  thumbnailUrl: Jennifer-Xu.jpg
+
+  programchair: true
+  ribbon: 
+    - {abbr: "SIGBPS", title: "Program Chair"}
+  social: 
+    - {name: "site", link: "http://cis.bentley.edu/jxu/"}
+- 
+  id: 6
+  name: "Emily"
+  surname: "Liu"
+  affiliations: "Stevens Institute of Technology"
+  title: "Program Chair"
+  thumbnailUrl: web-emily.jpg
+  programchair: true
+  ribbon: 
+    - {abbr: "SIGBPS", title: "Program Chair"}
+  social: 
+    - {name: "site", link: "https://web.stevens.edu/facultyprofile/?id=2274"}
+- 
+  id: 7
   name: "Jun"
   surname: "Shen"
   affiliations: "University of Wollongong"
-  title: "Program Chair"
+  title: "Publicity Chair"
   thumbnailUrl: jshen.jpg
   programchair: true
   ribbon: 
@@ -59,11 +96,11 @@
   social: 
     - {name: "site", link: "https://www.uow.edu.au/~jshen/"}
 - 
-  id: 5
+  id: 8
   name: "Zhe (Jay)"
   surname: "Shan"
   affiliations: "Miami University"
-  title: "Program Chair"
+  title: "Publicity Chair"
   thumbnailUrl: JayShan.jpg
   programchair: true
   ribbon: 
@@ -71,7 +108,7 @@
   social: 
     - {name: "site", link: "http://www.jayshanmis.net/"}
 - 
-  id: 6
+  id: 9
   name: "Lele"
   surname: "Kang"
   affiliations: "Nanjing University"
@@ -83,7 +120,7 @@
   social: 
     - {name: "site", link: "http://im.nju.edu.cn/eng/facstaffdetail?name=Lele%20KANG"}
 - 
-  id: 7
+  id: 10
   name: "Huaming"
   surname: "Chen"
   affiliations: "University of Wollongong"
@@ -95,7 +132,7 @@
   social: 
     - {name: "site", link: ""}
 - 
-  id: 8
+  id: 11
   name: "Ruiyun"
   surname: "Xu"
   affiliations: "City University of Hong Kong"
@@ -107,7 +144,7 @@
   social: 
     - {name: "site", link: ""}
 - 
-  id: 9
+  id: 12
   name: "Surendra"
   surname: "Sarnikar"
   affiliations: "Cal State East Bay"
