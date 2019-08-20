@@ -15,11 +15,11 @@ permalink: pretty
 exclude: ['/automation/', 'README.md', 'LICENSE.txt']
 
 # Site Settings
-title: "Welcome to BPS'18 website!"
-email: "jayshan@miamioh.edu"
-description: "SIGBPS 2018 is a workshop on Blockchain and Smart Contract"
+title: "Welcome to BPS'19 website!"
+email: "webmaster@sigbps.org"
+description: "SIGBPS 2019 is a workshop on Blockchain and Smart Contract"
 baseurl: ""
-url: "2018.sigbps.org"
+url: "2019.sigbps.org"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-43643469-5"
 googleAnalyticsSiteUrl: "gdg-x.github.io"
@@ -27,53 +27,53 @@ siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 
 # Organizer Info
 organizerName: "SIGBPS"
-organizerAlternateName: "ICIS-SIGBPS 2018"
+organizerAlternateName: "ICIS-SIGBPS 2019"
 organizerDescription: "ICIS SIGBPS Committee"
-organizerEmail: "jayshan@miamioh.edu"
+organizerEmail: "webmaster@sigbps.org"
 organizerLogo: "/img/seo/organizer-logo.png"
 organizerLink: "http://lviv.gdg.org.ua/"
 
 # Head
-metaKeywords: "ICIS, SIGBPS, BPS18, BPS"
+metaKeywords: "ICIS, SIGBPS, BPS19, BPS"
 twitterAccount: "@"
 socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Documents
-c4papersUrl: "/assets/SIGBPS2018.pdf"
-finalProgram: "/assets/SIGBPS2018_FinalProgram.pdf"
+c4papersUrl: "/assets/SIGBPS2019.pdf"
+finalProgram: "/assets/SIGBPS2019_FinalProgram.pdf"
 
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
- - {permalink: "/Best_Paper", text: "Best Paper Award"}
- - {permalink: "/Gallery", text: "Gallery"}
+# - {permalink: "/Best_Paper", text: "Best Paper Award"}
+# - {permalink: "/Gallery", text: "Gallery"}
  - {permalink: "/call-for-papers", text: "Call For Papers"}
  - {permalink: "/committees", 
     oclink: "/organizing_committees", 
     pclink: "/program_committees", text: "Committee"}
- - {permalink: "/keynotes", text: "Keynotes"}
- - {permalink: "/discussion_panel", text: "Discussion Panel"}
+# - {permalink: "/keynotes", text: "Keynotes"}
+# - {permalink: "/discussion_panel", text: "Discussion Panel"}
  - {permalink: "/program", text: "Program"}
  - {permalink: "/submission", text: "Submission"}
  - {permalink: "/registration", text: "Registration"}
 
 # Hero Block
 heroImage: "BG1.png"
-heroTitle1: "Pre-ICIS SIGBPS 2018 Workshop on"
+heroTitle1: "Pre-ICIS SIGBPS 2019 Workshop on"
 heroTitle2: "Blockchain and Smart Contract"
-eventDate: "December 13, 2018"
-eventLoc: "Marriott Marquis, Pacific Suite B, 780 Mission St, San Francisco, CA"
+eventDate: "December 15, 2019"
+eventLoc: "Internationales Congress Center München (ICM), Munich, Germany"
 #typeoutTextValues: '"", "Blockchain", "Smart Contract"'
 #typeoutFallback: "Blockchain"
 heroButtons:
- - {link: "http://2018.sigbps.org/Best_Paper/", text: "Best Paper Award"}
+ - {link: "http://2019.sigbps.org/Best_Paper/", text: "Best Paper Award"}
  
 # About Block
 aboutTitle: "About ICIS-SIGBPS"
 aboutBlock:
- - {title: "Conference", image: "conference.jpg", text: "International Conference on Information Systems (ICIS) 2018 Conference will bring together information systems researchers from around the world to discuss cutting edge research"}
+ - {title: "Conference", image: "conference.jpg", text: "International Conference on Information Systems (ICIS) 2019 Conference will bring together information systems researchers from around the world to discuss cutting edge research"}
  - {title: "Workshop", image: "workshop.jpg", text: "SIGBPS workshop aims to extend the boundaries of research in business process management and services science by integrating new elements that have not been sufficiently emphasized in the past." }
 
 # Latest News Block
@@ -87,20 +87,20 @@ rockstarSpeakersButtonText: "See all speakers"
 
 # Location Block
 locationBlockTitle: "Location"
-eventLocationName: "Marriott Marquis"
-eventLocationLink: "https://www.marriott.com/hotels/travel/sfodt-san-francisco-marriott-marquis/"
-eventRoom: "Pacific Suite B"
-eventStreetAddress: "780 Mission St"
-eventAddressLocality: "San Francisco, CA"
-eventAddressLocalityRegion: "California"
-eventPostalCode: "94103"
-eventAddressCountry: "United States"
-eventStartTime: "2018-12-13T9:00"
+eventLocationName: "Internationales Congress Center München (ICM)"
+eventLocationLink: "https://messe-muenchen.de/en/locations/messe-muenchen-locations/icm/"
+eventRoom: "TBD"
+eventStreetAddress: "Messe München GmbH"
+eventAddressLocality: "Messegelände"
+eventAddressLocalityRegion: "München"
+eventPostalCode: "81823"
+eventAddressCountry: "Germany"
+eventStartTime: "2019-12-15T9:00"
 eventDoorTime: "08:00"
-eventEndTime: "2018-12-13T20:00"
-eventPlaceCoordinates: "37.785405, -122.403516"
-mapCenterCoordinates: "37.785405, -122.403516"
-mapMobileCenterCoordinates: "37.785405, -122.403516"
+eventEndTime: "2019-12-15T20:00"
+eventPlaceCoordinates: "48.137320, 11.696652"
+mapCenterCoordinates: "48.137320, 11.696652"
+mapMobileCenterCoordinates: "48.137320, 11.696652"
 
 # Venue Block
 venueBlockTitle: "Venue"
@@ -108,8 +108,8 @@ venueBigImage: "venue_0.jpg"
 venueSmallImage1: "venue_1.jpg"
 venueSmallImage2: "venue_2.jpg"
 venueSmallImage3: "venue_3.jpg"
-venueTitle: "Marriott Marquis"
-venueFeatures: ["A stylish interior", "Rated for the best value in San Francisco"]
+venueTitle: "Internationales Congress Center München (ICM)"
+venueFeatures: ["A state of the art venue for international conferences and events", "Host to more than 80 events each year with more than 100,000 visitors experiencing the facility"]
 
 # Partners Block
 organizersTitle: "Organizers"
@@ -124,12 +124,12 @@ footerBlocks:
  -
   title: "Links"
   links:
-   - {link: "https://icis2018.aisconferences.org/", text: "ICIS 2018"}
-   - {link: "https://2018.sigbps.org/", text: "SIGBPS 2018"}
+   - {link: "https://icis2019.aisconferences.org/", text: "ICIS 2019"}
+   - {link: "https://2019.sigbps.org/", text: "SIGBPS 2019"}
  -
   title: "Contacts"
   links:
-   - {link: "mailto:jayshan@miamioh.edu", text: "Zhe (Jay) Shan"}
+   - {link: "mailto:webmaster@sigbps.org", text: "SIGBPS Webmaster"}
 
 # Blog
 blogTitle: "Latest news"
