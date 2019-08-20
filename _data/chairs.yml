@@ -60,19 +60,6 @@
     - {name: "site", link: "https://business.fiu.edu/faculty/expert-guides.cfm?FlagDirectory=Display&Emp=subramaniah"}
 - 
   id: 5
-  name: "Jennifer"
-  surname: "Xu"
-  affiliations: "Bentley University"
-  title: "Program Chair"
-  thumbnailUrl: Jennifer-Xu.jpg
-
-  programchair: true
-  ribbon: 
-    - {abbr: "SIGBPS", title: "Program Chair"}
-  social: 
-    - {name: "site", link: "http://cis.bentley.edu/jxu/"}
-- 
-  id: 6
   name: "Emily"
   surname: "Liu"
   affiliations: "Stevens Institute of Technology"
@@ -84,13 +71,25 @@
   social: 
     - {name: "site", link: "https://web.stevens.edu/facultyprofile/?id=2274"}
 - 
+  id: 6
+  name: "Jennifer"
+  surname: "Xu"
+  affiliations: "Bentley University"
+  title: "Program Chair"
+  thumbnailUrl: Jennifer-Xu.jpg
+  programchair: true
+  ribbon: 
+    - {abbr: "SIGBPS", title: "Program Chair"}
+  social: 
+    - {name: "site", link: "http://cis.bentley.edu/jxu/"}
+- 
   id: 7
   name: "Jun"
   surname: "Shen"
   affiliations: "University of Wollongong"
   title: "Publicity Chair"
   thumbnailUrl: jshen.jpg
-  programchair: true
+  publicitychair: true
   ribbon: 
     - {abbr: "SIGBPS", title: "Publicity Chair"}
   social: 
@@ -102,7 +101,7 @@
   affiliations: "Miami University"
   title: "Publicity Chair"
   thumbnailUrl: JayShan.jpg
-  programchair: true
+  publicitychair: true
   ribbon: 
     - {abbr: "SIGBPS", title: "Publicity Chair"}
   social: 
