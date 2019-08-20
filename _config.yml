@@ -104,10 +104,10 @@ mapMobileCenterCoordinates: "48.137320, 11.696652"
 
 # Venue Block
 venueBlockTitle: "Venue"
-venueBigImage: "venue_0.jpg"
-venueSmallImage1: "venue_1.jpg"
-venueSmallImage2: "venue_2.jpg"
-venueSmallImage3: "venue_3.jpg"
+venueBigImage: "ICM-1.jpg"
+venueSmallImage1: "ICM-2.jpg"
+venueSmallImage2: "ICM-3.jpg"
+venueSmallImage3: "ICM-4.jpg"
 venueTitle: "Internationales Congress Center München (ICM)"
 venueFeatures: ["A state of the art venue for international conferences and events", "Host to more than 80 events each year with more than 100,000 visitors experiencing the facility"]
 
