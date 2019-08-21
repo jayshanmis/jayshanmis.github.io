@@ -15,7 +15,7 @@ permalink: pretty
 exclude: ['/automation/', 'README.md', 'LICENSE.txt']
 
 # Site Settings
-title: "Welcome to BPS'19 website!"
+title: "BPS'19 on Blockchain and Smart Contract"
 email: "webmaster@sigbps.org"
 description: "SIGBPS 2019 is a workshop on Blockchain and Smart Contract"
 baseurl: ""
