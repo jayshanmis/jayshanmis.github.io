@@ -13,7 +13,7 @@
                                 <span class="publish-date" itemprop="datePublished">{{ post.date | date: "%b %-d, %Y" }}{% if post.author %} • {{ post.author }}{% endif %}{% if post.meta %} • {{ post.meta }}{% endif %}</span>
                             </div>
                         </div>
-                        <p class="post-body">{{ post.content }} </p>
+                        <div class="post-body">{{ post.content }} </div>
                     </article>
                 {% endfor %} 
             </div>
