@@ -144,13 +144,13 @@
     - {name: "site", link: ""}
 - 
   id: 12
-  name: "Surendra"
-  surname: "Sarnikar"
-  affiliations: "Cal State East Bay"
+  name: "Antonia"
+  surname: "Köster"
+  affiliations: "Universität Potsdam, Germany"
   title: "Local Arrangement Chair"
-  thumbnailUrl: surendra-sarnikar.jpg
+  thumbnailUrl: Antonia_Koster.JPG
   localteam: true
   ribbon: 
     - {abbr: "SIGBPS", title: "Local Arrangement Chair"}
   social: 
-    - {name: "site", link: "https://www.csueastbay.edu/directory/profiles/mgmt/sarnikarsurendra.html"}
+    - {name: "site", link: "https://www.uni-potsdam.de/en/social-media-krasnova/team/dr-antonia-koester.html"}
