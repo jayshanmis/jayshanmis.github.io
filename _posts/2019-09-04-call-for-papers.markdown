@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Call for Papers"
-date:   2019-09-03 9:00:00
+date:   2019-09-04 9:00:00
 isStaticPost: false
 ---
 SIGBPS workshops aim to extend the boundaries of research in business process management and services science by incorporating new elements that have not been sufficiently emphasized in the past. The recent rapid advances in information systems have created both challenges and opportunities to develop new business services via innovative business processes. This workshop promotes theoretical research in business process management and service science.
