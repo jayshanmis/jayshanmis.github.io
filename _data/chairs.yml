@@ -125,7 +125,7 @@
   affiliations: "University of Wollongong"
   title: "Web Master"
   thumbnailUrl: Huaming.jpg
-  webmaster: true
+  webmaster: false
   ribbon: 
     - {abbr: "SIGBPS", title: "Web Master"}
   social: 
@@ -137,7 +137,7 @@
   affiliations: "City University of Hong Kong"
   title: "Web Master"
   thumbnailUrl: Ruiyun.jpg
-  webmaster: true
+  webmaster: false
   ribbon: 
     - {abbr: "SIGBPS", title: "Web Master"}
   social: 
@@ -154,3 +154,16 @@
     - {abbr: "SIGBPS", title: "Local Arrangement Chair"}
   social: 
     - {name: "site", link: "https://www.uni-potsdam.de/en/social-media-krasnova/team/dr-antonia-koester.html"}
+-
+  id: 13
+  name: "Brandon"
+  surname: "Pugh"
+  affiliations: "Miami University"
+  title: "Webmaster"
+  thumbnailUrl: 
+  webmaster: true
+    ribbon: 
+    - {abbr: "SIGBPS", title: "Web Master"}
+  social: 
+    - {name: "site", link: ""}
+  
