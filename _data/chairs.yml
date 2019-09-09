@@ -126,10 +126,6 @@
   title: "Web Master"
   thumbnailUrl: Huaming.jpg
   webmaster: false
-  ribbon: 
-    - {abbr: "SIGBPS", title: "Web Master"}
-  social: 
-    - {name: "site", link: ""}
 - 
   id: 11
   name: "Brandon"
