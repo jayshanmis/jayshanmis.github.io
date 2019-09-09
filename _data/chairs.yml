@@ -138,10 +138,7 @@
   title: "Web Master"
   thumbnailUrl: Ruiyun.jpg
   webmaster: false
-  ribbon: 
-    - {abbr: "SIGBPS", title: "Web Master"}
-  social: 
-    - {name: "site", link: ""}
+
 - 
   id: 12
   name: "Antonia"
