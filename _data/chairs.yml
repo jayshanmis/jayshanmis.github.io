@@ -162,7 +162,7 @@
   title: "Webmaster"
   thumbnailUrl: Brandon_Pugh.JPG
   webmaster: true
-    ribbon: 
+  ribbon: 
     - {abbr: "SIGBPS", title: "Web Master"}
   social: 
     - {name: "site", link: ""}
