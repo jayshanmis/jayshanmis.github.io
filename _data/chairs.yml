@@ -132,12 +132,16 @@
     - {name: "site", link: ""}
 - 
   id: 11
-  name: "Ruiyun"
-  surname: "Xu"
-  affiliations: "City University of Hong Kong"
+  name: "Brandon"
+  surname: "Pugh"
+  affiliations: "Miami University"
   title: "Web Master"
-  thumbnailUrl: Ruiyun.jpg
-  webmaster: false
+  thumbnailUrl: Brandon_Pugh.JPG
+  webmaster: true
+  ribbon: 
+    - {abbr: "SIGBPS", title: "Web Master"}
+  social: 
+    - {name: "site", link: ""}
 
 - 
   id: 12
@@ -153,14 +157,10 @@
     - {name: "site", link: "https://www.uni-potsdam.de/en/social-media-krasnova/team/dr-antonia-koester.html"}
 -
   id: 13
-  name: "Brandon"
-  surname: "Pugh"
-  affiliations: "Miami University"
-  title: "Webmaster"
-  thumbnailUrl: Brandon_Pugh.JPG
-  webmaster: true
-  ribbon: 
-    - {abbr: "SIGBPS", title: "Web Master"}
-  social: 
-    - {name: "site", link: ""}
+  name: "Ruiyun"
+  surname: "Xu"
+  affiliations: "City University of Hong Kong"
+  title: "Web Master"
+  thumbnailUrl: Ruiyun.jpg
+  webmaster: false
   
