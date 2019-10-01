@@ -17,6 +17,7 @@
   id: 3
   name: "Jan" 
   surname: "Claes"
+  affiliations: "University of Gent"
 - 
   id: 4
   name: "Amit" 
@@ -26,18 +27,22 @@
   id: 5
   name: "Marlon" 
   surname: "Dumas"
+  affiliations: "University of Tartu"
 -
   id: 6
   name: "Enes"
   surname: "Erdin"
+  affiliations: "Florida International University"
 - 
   id: 7
   name: "Rik" 
   surname: "Eshuis"
+  affiliations: "Eindhoven University of Technology"
 - 
   id: 8
   name: "Frederik" 
   surname: "Gailly"
+  affiliations: "University of Gent"
 - 
   id: 9
   name: "Zhiling" 
@@ -77,10 +82,12 @@
   id: 16
   name: "Shaobo" 
   surname: "Li"
+  affiliations: "University of Kansas"
 - 
   id: 17
   name: "Mikael" 
   surname: "Lind"
+  affiliations: "RISE Viktoria"
 - 
   id: 18
   name: "Jan" 
@@ -90,10 +97,12 @@
   id: 19
   name: "Boris" 
   surname: "Otto"
+  affiliations: "TU Dortnumd"
 - 
   id: 20
   name: "Esmaeil" 
   surname: "Pouyan"
+  affiliations: "Florida International University"
 - 
   id: 21
   name: "Roopa" 
@@ -103,18 +112,22 @@
   id: 22
   name: "Pascal" 
   surname: "Ravesteyn"
+  affiliations: "Hogeschool Utrecht"
 - 
   id: 23
   name: "Hajo" 
   surname: "Reijers"
+  affiliations: "Vriji University-Amsterdam"
 - 
   id: 24
   name: "Maximilian" 
   surname: "Roeglinger"
+  affiliations: "University of Bayreuth"
 -
   id: 25
   name: "Flavia"
   surname: "Santoro"
+  affiliations: "Uniriotec"
 -
   id: 26
   name: "Surendra"
@@ -124,6 +137,7 @@
   id: 27
   name: "Anna"
   surname: "Sidorova"
+  affiliations: "University of North Texas"
 -
   id: 28
   name: "Vijayan"
@@ -133,10 +147,12 @@
   id: 29
   name: "Oktay"
   surname: "Turetken"
+  affiliations: "Eindhoven University of Technology"
 -
   id: 30
   name: "Stijn"
   surname: "Viaene"
+  affiliations: "Vlerick Business School"
 -
   id: 31
   name: "Harry"
@@ -196,3 +212,4 @@
   id: 42
   name: "Michael"
   surname: "ZurMuehlen"
+  affiliations: "Stevens Institute of Technology"
