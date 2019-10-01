@@ -1,130 +1,198 @@
 - 
   id: 0
-  name: "Joonsang" 
-  surname: "Baek"
-  affiliations: "Wollongong"
+  name: "Yiyang" 
+  surname: "Bian"
+  affiliations: "Nanjing University"
 - 
   id: 1
+  name: "Arturo" 
+  surname: "Castellanos"
+  affiliations: "Baruch College (CUNY)"
+- 
+  id: 2
   name: "Michael" 
   surname: "Chau"
   affiliations: "The University of Hong Kong"
 - 
-  id: 2
+  id: 3
   name: "Jan" 
   surname: "Claes"
-  affiliations: "University Gent"
-- 
-  id: 3
-  name: "Claudio" 
-  surname: "Di Ciccio"
-  affiliations: "WU Vienna"
 - 
   id: 4
-  name: "Marlon" 
-  surname: "Dumas"
-  affiliations: "University of Tartu"
+  name: "Amit" 
+  surname: "Deokar"
+  affiliations: "University of Massachusetts at Lowell"
 - 
   id: 5
-  name: "Rik" 
-  surname: "Eshuis"
-  affiliations: "Eindhoven University of Technology"
+  name: "Marlon" 
+  surname: "Dumas"
 -
   id: 6
-  name: "Jason"
+  name: "Enes"
+  surname: "Erdin"
+- 
+  id: 7
+  name: "Rik" 
+  surname: "Eshuis"
+- 
+  id: 8
+  name: "Frederik" 
+  surname: "Gailly"
+- 
+  id: 9
+  name: "Zhiling" 
+  surname: "Guo"
+  affiliations: "Singapore Management University"
+- 
+  id: 10
+  name: "Xitong" 
+  surname: "Guo"
+  affiliations: "Harbin Institute of Technology"
+-
+  id: 11
+  name: "Karthik"
+  surname: "Kannan"
+  affiliations: "Southern Methodist University"
+- 
+  id: 12
+  name: "Antino" 
+  surname: "Kim"
+  affiliations: "Indiana University"
+- 
+  id: 13
+  name: "Nanda" 
+  surname: "Kumar"
+  affiliations: "City University of New York, Bernard M. Baruch College"
+- 
+  id: 14
+  name: "Jiexun" 
   surname: "Li"
   affiliations: "Western Washington University"
 - 
-  id: 7
-  name: "Shaobo" 
-  surname: "Li"
-  affiliations: "University of Kansas"
-- 
-  id: 8
+  id: 15
   name: "Xin" 
   surname: "Li"
   affiliations: "City University of Hong Kong"
 - 
-  id: 9
-  name: "Mikael" 
-  surname: "Lind"
-  affiliations: "Viktoria Swedish ICT and Chalmers University of Technology"
-- 
-  id: 10
-  name: "Pascal" 
-  surname: "Ravesteyn"
-  affiliations: "HU University of Applied Science Utrecht"
--
-  id: 11
-  name: "Binny"
-  surname: "Samuel"
-  affiliations: "University of Cincinnati"
-- 
-  id: 12
-  name: "Flavia" 
-  surname: "Santoro"
-  affiliations: "Federal University of the State of Rio de Janerio"
-- 
-  id: 13
-  name: "Surendra" 
-  surname: "Sarnikar"
-  affiliations: "California State University East Bay"
-- 
-  id: 14
-  name: "Vijayan" 
-  surname: "Sugumaran"
-  affiliations: "Oakland University"
-- 
-  id: 15
-  name: "Alan" 
-  surname: "Wang"
-  affiliations: "Virginia Tech"
-- 
   id: 16
-  name: "Gang" 
-  surname: "Wang"
-  affiliations: "Hefei University of Technology"
+  name: "Shaobo" 
+  surname: "Li"
 - 
   id: 17
-  name: "Jingguo" 
-  surname: "Wang"
-  affiliations: "University of Texas, Arlington"
+  name: "Mikael" 
+  surname: "Lind"
 - 
   id: 18
-  name: "Harris" 
-  surname: "Wu"
-  affiliations: "Old Dominion University"
+  name: "Jan" 
+  surname: "Mendling"
+  affiliations: "WU Vienna"
 - 
   id: 19
-  name: "Jennifer" 
-  surname: "Xu"
-  affiliations: "Bentley University"
+  name: "Boris" 
+  surname: "Otto"
 - 
   id: 20
-  name: "Xue" 
+  name: "Esmaeil" 
+  surname: "Pouyan"
+- 
+  id: 21
+  name: "Roopa" 
+  surname: "Raman"
+  affiliations: "University of Dayton"
+- 
+  id: 22
+  name: "Pascal" 
+  surname: "Ravesteyn"
+- 
+  id: 23
+  name: "Hajo" 
+  surname: "Reijers"
+- 
+  id: 24
+  name: "Maximilian" 
+  surname: "Roeglinger"
+-
+  id: 25
+  name: "Flavia"
+  surname: "Santoro"
+-
+  id: 26
+  name: "Surendra"
+  surname: "Sarnikar"
+  affiliations: "California State University, East Bay"
+-
+  id: 27
+  name: "Anna"
+  surname: "Sidorova"
+-
+  id: 28
+  name: "Vijayan"
+  surname: "Sugumaran"
+  affiliations: "Oakland University"
+-
+  id: 29
+  name: "Oktay"
+  surname: "Turetken"
+-
+  id: 30
+  name: "Stijn"
+  surname: "Viaene"
+-
+  id: 31
+  name: "Harry"
+  surname: "Wang"
+  affiliations: "University of Delaware"
+-
+  id: 32
+  name: "Jingguo"
+  surname: "Wang"
+  affiliations: "University of Texas at Arlington"
+-
+  id: 33
+  name: "Alan"
+  surname: "Wang"
+  affiliations: "Virginia Tech"
+-
+  id: 34
+  name: "Gang"
+  surname: "Wang"
+  affiliations: "Hefei University of Technology"
+-
+  id: 35
+  name: "Harris"
+  surname: "Wu"
+  affiliations: "Old Dominion University"
+-
+  id: 36
+  name: "Xue"
   surname: "Yang"
   affiliations: "Nanjing University"
 - 
-  id: 21
-  name: "Bin" 
+  id: 37
+  name: "Wei"
+  surname: "Yue"
+  affiliations: "City University of Hong Kong"
+-
+  id: 38
+  name: "Bin"
   surname: "Zhang"
   affiliations: "University of Arizona"
-- 
-  id: 22
-  name: "Dongsong" 
+-
+  id: 39
+  name: "Dongsong"
   surname: "Zhang"
-  affiliations: "UNCC"
-- 
-  id: 23
-  name: "Kang" 
+  affiliations: "UNC Charlotte"
+-
+  id: 40
+  name: "Kang"
   surname: "Zhao"
   affiliations: "University of Iowa"
-- 
-  id: 24
-  name: "Lina" 
-  surname: "Zhou"
-  affiliations: "UNCC"
 -
-  id: 25
-  name: "Tianhai"
-  surname: "Zu"
-  affiliations: "University of Cincinnati"
+  id: 41
+  name: "Lina"
+  surname: "Zhou"
+  affiliations: "UNNC Charlotte"
+- 
+  id: 42
+  name: "Michael"
+  surname: "ZurMuehlen"
