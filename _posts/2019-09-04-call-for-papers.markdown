@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Call for Papers"
-date:   2019-10-10 9:00:00
+date:   2019-10-21 9:00:00
 isStaticPost: false
 ---
 SIGBPS workshops aim to extend the boundaries of research in business process management and services science by incorporating new elements that have not been sufficiently emphasized in the past. The recent rapid advances in information systems have created both challenges and opportunities to develop new business services via innovative business processes. This workshop promotes theoretical research in business process management and service science.
@@ -40,6 +40,6 @@ The workshop will be organized with special tracks of interests. Researchers wit
 Please email [Hemang Subramanian](mailto:fhsubram@fiu.edu), [Jennifer Xu](mailto:jxu@bentley.edu), and/or [Emily Liu](mailto:rong.liu@stevens.edu) if you would like to get more information, or if you are considering to direct the paper solicitation in one of the areas above.
 
 Important dates
-* Submission deadline: October 15, 2019 
-* Notification of paper acceptance: October 21, 2019
-* Final version due: October 30, 2019
+* Extended submission deadline: October 20, 2019 
+* Notification of paper acceptance: October 28, 2019
+* Final version due: November 7, 2019
