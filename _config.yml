@@ -53,7 +53,7 @@ navigationLinks:
  - {permalink: "/committees", 
     oclink: "/organizing_committees", 
     pclink: "/program_committees", text: "Committee"}
-# - {permalink: "/keynotes", text: "Keynotes"}
+ - {permalink: "/keynotes", text: "Keynotes"}
 # - {permalink: "/discussion_panel", text: "Discussion Panel"}
  - {permalink: "/program", text: "Program"}
  - {permalink: "/submission", text: "Submission"}
