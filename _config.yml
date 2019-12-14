@@ -68,7 +68,7 @@ eventLoc: "Internationales Congress Center München (ICM), Munich, Germany"
 #typeoutTextValues: '"", "Blockchain", "Smart Contract"'
 #typeoutFallback: "Blockchain"
 heroButtons:
- - {link: "http://2019.sigbps.org/Best_Paper/", text: "Best Paper Award"}
+ - {link: "http://2019.sigbps.org/program/", text: "Program"}
  
 # About Block
 aboutTitle: "About ICIS-SIGBPS"
